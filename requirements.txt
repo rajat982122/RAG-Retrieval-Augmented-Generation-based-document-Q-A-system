@@ -1,0 +1,21 @@
+# Backend
+fastapi
+uvicorn
+python-multipart
+requests
+
+# Frontend
+streamlit
+
+# RAG stack
+langchain-core
+langchain-openai
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+PyMuPDF
+transformers
+numpy
+
+# Database
+mysql-connector-python
